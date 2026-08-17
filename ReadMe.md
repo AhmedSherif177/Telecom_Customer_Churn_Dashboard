@@ -1,4 +1,4 @@
-# Telecom Customer Churn Dashboard#
+# Telecom Customer Churn Dashboard
 
 
 A dashboard visualizing important information from a telecom dataset using Power Bi. We create new measure called churn_rate which calculates the percentage of churn customers among total customers
